@@ -1,0 +1,13 @@
+git use proc
+1 git init \\init workspace
+2 git clone \\clone new proj
+3 git branch branchname  //creat new branch
+4 git chekout branchname \\chekout to new branch
+5 modify proj
+6 git add filename //add to cache
+7 git statu //see statues
+8 git commit -m 'miaoshu' \\commit to pro
+9 git push \\push to remote
+10 merge
+
+
